@@ -19,7 +19,7 @@ namespace tst
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            comeon
+            MessageBox.Show("hELLO TOMORROW!");
         }
     }
 }
